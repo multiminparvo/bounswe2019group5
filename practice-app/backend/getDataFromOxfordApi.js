@@ -1,8 +1,8 @@
 var http = require("https");
 
 function createRequestsForOxfordApi(language, word,image, callback) {
-    var app_id = "d4ecea1c";
-    var app_key = "e18d3e367a757392aa6d916f78c655f1";
+    var app_id = "WILL BE ADDED TO DATABASE";
+    var app_key = "WILL BE ADDED TO DATABASE";
     var options = {
         word: word,
         image:image,
